@@ -1,0 +1,394 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$2.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$3.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$4.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$main$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$2.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$3.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$4.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$5.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$6.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$main$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$2.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$3.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$4.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$5.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$6.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$main$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$2.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$3.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$4.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$5.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$6.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$main$1.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$.class
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob.class
+binary dependencies:
+12 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> C:\Users\tpshc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> C:\Users\tpshc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> C:\Users\tpshc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> C:\Users\tpshc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob$
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob$$anonfun$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob$$anonfun$2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob$$anonfun$3
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob$$anonfun$4
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob$$anonfun$main$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$3
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$4
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$5
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$6
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob$$anonfun$main$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$3
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$4
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$5
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$6
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob$$anonfun$main$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$3
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$4
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$5
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$6
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob$$anonfun$main$1
+used names:
+193 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> +
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> <init>
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> >
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> AnyRef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> Array
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> ClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> DistinctUsersPerCountryJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> Int
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> Ordering
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> Predef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> RDD
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> ScalaRunTime
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> SparkConf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> SparkContext
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> String
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> Unit
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> _1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> apache
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> apply
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> args
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> arrayClass
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> collect
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> conf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> distinct
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> foreach
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> inputFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> jobOutput
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> length
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> locReq
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> map
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> materializeClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> math
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> org
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> package
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> println
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> rdd
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> rddToPairRDDFunctions
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> reduceByKey
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> refArrayOps
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> sc
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> scala
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> setAppName
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> spark
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> split
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> textFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> x
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> +
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> <init>
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> >
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> AnyRef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> Array
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> ClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> Int
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> Ordering
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> PeakHourOfDayJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> Predef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> RDD
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> ScalaRunTime
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> SparkConf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> SparkContext
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> String
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> Unit
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> _1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> _2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> apache
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> apply
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> args
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> arrayClass
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> collect
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> conf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> foreach
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> inputFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> jobOutput
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> length
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> locReq
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> map
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> materializeClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> math
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> org
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> package
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> println
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> rdd
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> rddToPairRDDFunctions
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> reduceByKey
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> refArrayOps
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> sc
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> scala
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> setAppName
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> spark
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> split
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> substring
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> textFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> x
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> y
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> +
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> <init>
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> >
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> AnyRef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> Array
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> ClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> Int
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> MostActiveUserPerCountryJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> Ordering
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> Predef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> RDD
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> ScalaRunTime
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> SparkConf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> SparkContext
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> String
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> Tuple2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> Unit
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> _1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> _2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> apache
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> apply
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> args
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> arrayClass
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> collect
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> conf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> foreach
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> inputFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> jobOutput
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> length
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> locReq
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> map
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> materializeClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> math
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> org
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> package
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> println
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> rdd
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> rddToPairRDDFunctions
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> reduceByKey
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> refArrayOps
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> sc
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> scala
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> setAppName
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> spark
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> split
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> textFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> x
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> y
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> +
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> /
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> <init>
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> >
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AnyRef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> Array
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> AverageHourlyRequestsCountPerCountryJob
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> ClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> Int
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> Ordering
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> Predef
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> RDD
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> ScalaRunTime
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> SparkConf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> SparkContext
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> String
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> Tuple2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> Unit
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> _1
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> _2
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> apache
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> apply
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> args
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> arrayClass
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> collect
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> conf
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> foreach
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> inputFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> jobOutput
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> length
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> locReq
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> map
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> materializeClassTag
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> math
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> org
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> package
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> println
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> rdd
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> rddToPairRDDFunctions
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> reduceByKey
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> refArrayOps
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> replaceAll
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> sc
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> scala
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> setAppName
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> spark
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> split
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> textFile
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> toFloat
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> x
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> y
+product stamps:
+34 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$1.class -> lastModified(1463745009936)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$2.class -> lastModified(1463745009941)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$3.class -> lastModified(1463745009945)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$4.class -> lastModified(1463745009947)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$5.class -> lastModified(1463745009950)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$6.class -> lastModified(1463745009954)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$$anonfun$main$1.class -> lastModified(1463745009957)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob$.class -> lastModified(1463745009929)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\AverageHourlyRequestsCountPerCountryJob.class -> lastModified(1463745009860)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$1.class -> lastModified(1463745009966)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$2.class -> lastModified(1463745009969)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$3.class -> lastModified(1463745009972)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$4.class -> lastModified(1463745009974)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$$anonfun$main$1.class -> lastModified(1463745009976)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob$.class -> lastModified(1463745009964)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\DistinctUsersPerCountryJob.class -> lastModified(1463745009959)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$1.class -> lastModified(1463745009985)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$2.class -> lastModified(1463745009988)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$3.class -> lastModified(1463745009990)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$4.class -> lastModified(1463745009993)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$5.class -> lastModified(1463745009996)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$6.class -> lastModified(1463745009998)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$$anonfun$main$1.class -> lastModified(1463745010001)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob$.class -> lastModified(1463745009982)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\MostActiveUserPerCountryJob.class -> lastModified(1463745009978)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$1.class -> lastModified(1463745010008)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$2.class -> lastModified(1463745010011)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$3.class -> lastModified(1463745010014)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$4.class -> lastModified(1463745010017)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$5.class -> lastModified(1463745010020)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$6.class -> lastModified(1463745010023)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$$anonfun$main$1.class -> lastModified(1463745010026)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob$.class -> lastModified(1463745010005)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\target\scala-2.11\classes\PeakHourOfDayJob.class -> lastModified(1463745010002)
+source stamps:
+4 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> hash(2dca8146d967f475e702a0f4469148188153403d)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> hash(68e72c4567a620d482b25c52b1255cda6cfb83b4)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> hash(564beddfb6a526344e29d7be06063c7b04b0ca94)
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> hash(744a6ebd339bc494a22ebfcf9dfc1ca6af4f2446)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> lastModified(1463245629977)
+C:\Users\tpshc\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar -> lastModified(1456554878000)
+C:\Users\tpshc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> java.lang.Object
+C:\Users\tpshc\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.1.jar -> org.apache.spark.SparkConf
+C:\Users\tpshc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Int
+internal apis:
+4 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBUR4cfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCClfpx0AAZub3RpZnlzcQB+AAy8R8P7dAAEd2FpdHNxAH4ADAMo3ct0AA0kYXNJbnN0YW5jZU9mc3EAfgAMY+EM2nQABmVxdWFsc3NxAH4ADOsCLWZ0AAxhc0luc3RhbmNlT2ZzcQB+AAz2zlP/dAAMc3luY2hyb25pemVkc3EAfgAMyiNqQHQADSRpc0luc3RhbmNlT2ZzcQB+AAy9DDHadAAEbWFpbnNxAH4ADMpZIKx0AAlub3RpZnlBbGxzcQB+AAzm2pPpdAAMaXNJbnN0YW5jZU9mc3EAfgAMHn6gDHQAGkRpc3RpbmN0VXNlcnNQZXJDb3VudHJ5Sm9ic3EAfgAM7Z1+RnQAAj09c3EAfgAMAbazdnQABWNsb25lc3EAfgAMxpL5OHQACHRvU3RyaW5nc3EAfgAMIbQ5mnQAAiE9c3EAfgAMStxu33QACGdldENsYXNzc3EAfgAMsouLm3QAAm5lc3EAfgAMSb0OQHQAAmVxc3EAfgAMF80Ja3QAAiMjc3EAfgAMDgEi8HQACGZpbmFsaXplc3EAfgAMv+WaqHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUzgBIWnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGJDOlxVc2Vyc1x0cHNoY1xEZXNrdG9wXERhdGFTY2llbmNlTWluaVByb2plY3RcUDFfTG9jYXRpb25SZXF1ZXN0QW5hbHlzaXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFC3KgUbZZ/R15wKg9EaRSBiBU0A9
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBPrlVdAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFyvzRZ0AAZub3RpZnlzcQB+AAwHpUi5dAAEd2FpdHNxAH4ADM6dbo90AA0kYXNJbnN0YW5jZU9mc3EAfgAMOYzo6XQABmVxdWFsc3NxAH4ADH2mj5Z0AAxhc0luc3RhbmNlT2ZzcQB+AAxUwztwdAAQUGVha0hvdXJPZkRheUpvYnNxAH4ADDkr2bl0AAxzeW5jaHJvbml6ZWRzcQB+AAytrBrddAANJGlzSW5zdGFuY2VPZnNxAH4ADOXqyOl0AARtYWluc3EAfgAMoVC3YXQACW5vdGlmeUFsbHNxAH4ADJF9Hhd0AAxpc0luc3RhbmNlT2ZzcQB+AAz1vKgVdAACPT1zcQB+AAzCrOZ2dAAFY2xvbmVzcQB+AAyVIciidAAIdG9TdHJpbmdzcQB+AAwgJjNqdAACIT1zcQB+AAxnlpq1dAAIZ2V0Q2xhc3NzcQB+AAxf1nQgdAACbmVzcQB+AAzou/kcdAACZXFzcQB+AAzB30DKdAACIyNzcQB+AAzaXtzWdAAIZmluYWxpemVzcQB+AAwtwbKMdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTOAEhadXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYkM6XFVzZXJzXHRwc2hjXERlc2t0b3BcRGF0YVNjaWVuY2VNaW5pUHJvamVjdFxQMV9Mb2NhdGlvblJlcXVlc3RBbmFseXNpc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUaOcsRWemINSCslxSsSVc2mz7g7Q=
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcIVBVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLlNZnR0AAZub3RpZnlzcQB+AAwz/lCSdAAEd2FpdHNxAH4ADP9zmYl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMU2HYaHQABmVxdWFsc3NxAH4ADCGoxtt0AAxhc0luc3RhbmNlT2ZzcQB+AAyX9pPTdAAMc3luY2hyb25pemVkc3EAfgAMpmhS5nQADSRpc0luc3RhbmNlT2ZzcQB+AAxUHJ4ZdAAEbWFpbnNxAH4ADGqxe490AAlub3RpZnlBbGxzcQB+AAwT6tkzdAAMaXNJbnN0YW5jZU9mc3EAfgAMKVtYInQAAj09c3EAfgAMgAyp9HQABWNsb25lc3EAfgAMopG6Z3QACHRvU3RyaW5nc3EAfgAMRoIBC3QAAiE9c3EAfgAMs3JLaHQACGdldENsYXNzc3EAfgAMwS70JXQAAm5lc3EAfgAMzurphXQAAmVxc3EAfgAM/MrojnQAG01vc3RBY3RpdmVVc2VyUGVyQ291bnRyeUpvYnNxAH4ADLdVhi50AAIjI3NxAH4ADIokUVB0AAhmaW5hbGl6ZXNxAH4ADOAKhMd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AMXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVM4ASFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiQzpcVXNlcnNcdHBzaGNcRGVza3RvcFxEYXRhU2NpZW5jZU1pbmlQcm9qZWN0XFAxX0xvY2F0aW9uUmVxdWVzdEFuYWx5c2lzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRWS+3ftqUmNE4p174GBjx7BLDKlA==
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCaQIXxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJROOQZ0AAZub3RpZnlzcQB+AAxyi/VjdAAEd2FpdHNxAH4ADJmAet50AA0kYXNJbnN0YW5jZU9mc3EAfgAMjo/CDHQABmVxdWFsc3NxAH4ADE82ocp0AAxhc0luc3RhbmNlT2ZzcQB+AAwGEIIMdAAMc3luY2hyb25pemVkc3EAfgAM0nvftnQADSRpc0luc3RhbmNlT2ZzcQB+AAyKlvRydAAEbWFpbnNxAH4ADFbVo6N0AAlub3RpZnlBbGxzcQB+AAy+iAfXdAAMaXNJbnN0YW5jZU9mc3EAfgAM6gQup3QAJ0F2ZXJhZ2VIb3VybHlSZXF1ZXN0c0NvdW50UGVyQ291bnRyeUpvYnNxAH4ADMWfCh90AAI9PXNxAH4ADGqRAKx0AAVjbG9uZXNxAH4ADBMLEiJ0AAh0b1N0cmluZ3NxAH4ADMvJ0BB0AAIhPXNxAH4ADJgVJEF0AAhnZXRDbGFzc3NxAH4ADH2TDe90AAJuZXNxAH4ADBSEOMF0AAJlcXNxAH4ADI1yEqh0AAIjI3NxAH4ADHPHGOB0AAhmaW5hbGl6ZXNxAH4ADLUtK9x0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AI3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVM4ASFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABiQzpcVXNlcnNcdHBzaGNcRGVza3RvcFxEYXRhU2NpZW5jZU1pbmlQcm9qZWN0XFAxX0xvY2F0aW9uUmVxdWVzdEFuYWx5c2lzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR0Sm69M5vElKIuv8+d/Bymr08kRg==
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job1.scala -> 
+AAAAAAAAAAA=
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job2.scala -> 
+AAAAAAAAAAA=
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job3.scala -> 
+AAAAAAAAAAA=
+C:\Users\tpshc\Desktop\DataScienceMiniProject\P1_LocationRequestAnalysis\src\main\scala\job4.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVM4ASFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYkM6XFVzZXJzXHRwc2hjXERlc2t0b3BcRGF0YVNjaWVuY2VNaW5pUHJvamVjdFxQMV9Mb2NhdGlvblJlcXVlc3RBbmFseXNpc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
