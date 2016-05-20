@@ -1,23 +1,17 @@
 ### Location Request Analysis
 
 
-Os cÛdigos-fonte se encontram em:
-	/src/main/scala/
+Os c√≥digos-fonte se encontram em ```/src/main/scala/```.
 
-O arquivo Java se encontra em:
-	/target/scala-2.11/location-request-analysis_2.11-1.0.jar
+O arquivo Java se encontra em ```/target/scala-2.11/location-request-analysis_2.11-1.0.jar```.
 
-
-Para rodar, v· atÈ a pasta do projeto e use:
+Para rodar, v√° at√© a pasta do projeto e use:
 
 	$ SPARK_HOME/spark-submit \
 		--class CHOSEN_JOB \
 		target/scala-2.11/location-request-analysis_2.11-1.0.jar \
 		INPUT_PATH
 
-Onde:
-```SPARK_HOME``` -> Local onde o Spark est· instalado.
-```CHOSEN_JOB``` -> Classe que vocÍ queira rodar.
-```INPUT_PATH``` -> Caminho para o arquivo ```location_requests.csv```. Caso n„o seja especificado, ser· assumido que se encontra na pasta do projeto.
+Onde ```SPARK_HOME``` √© o local onde o Spark est√° instalado; ```CHOSEN_JOB``` √© a classe que voc√™ quer rodar; e ```INPUT_PATH``` √© o caminho para o arquivo ```location_requests.csv```(caso n√£o seja especificado, ser√° assumido que se encontra na pasta do projeto).
 
-O programa imprimir· na tela a resposta de cada Job.
+O programa imprimir√° na tela a resposta de cada Job.
